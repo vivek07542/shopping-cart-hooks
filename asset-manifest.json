@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/https//vivek07542.github.io/shopping-cart-hooks/static/css/main.7f25bf1a.chunk.css",
-    "main.js": "/https//vivek07542.github.io/shopping-cart-hooks/static/js/main.af80ecc1.chunk.js",
-    "main.js.map": "/https//vivek07542.github.io/shopping-cart-hooks/static/js/main.af80ecc1.chunk.js.map",
-    "runtime-main.js": "/https//vivek07542.github.io/shopping-cart-hooks/static/js/runtime-main.2a88b5d2.js",
-    "runtime-main.js.map": "/https//vivek07542.github.io/shopping-cart-hooks/static/js/runtime-main.2a88b5d2.js.map",
-    "static/js/2.8a49bf17.chunk.js": "/https//vivek07542.github.io/shopping-cart-hooks/static/js/2.8a49bf17.chunk.js",
-    "static/js/2.8a49bf17.chunk.js.map": "/https//vivek07542.github.io/shopping-cart-hooks/static/js/2.8a49bf17.chunk.js.map",
-    "static/js/3.ecf42d11.chunk.js": "/https//vivek07542.github.io/shopping-cart-hooks/static/js/3.ecf42d11.chunk.js",
-    "static/js/3.ecf42d11.chunk.js.map": "/https//vivek07542.github.io/shopping-cart-hooks/static/js/3.ecf42d11.chunk.js.map",
-    "index.html": "/https//vivek07542.github.io/shopping-cart-hooks/index.html",
-    "static/css/main.7f25bf1a.chunk.css.map": "/https//vivek07542.github.io/shopping-cart-hooks/static/css/main.7f25bf1a.chunk.css.map",
-    "static/js/2.8a49bf17.chunk.js.LICENSE.txt": "/https//vivek07542.github.io/shopping-cart-hooks/static/js/2.8a49bf17.chunk.js.LICENSE.txt"
+    "main.css": "/https//vivek07542.github.io/shopping-cart-hooks/build/static/css/main.7f25bf1a.chunk.css",
+    "main.js": "/https//vivek07542.github.io/shopping-cart-hooks/build/static/js/main.af80ecc1.chunk.js",
+    "main.js.map": "/https//vivek07542.github.io/shopping-cart-hooks/build/static/js/main.af80ecc1.chunk.js.map",
+    "runtime-main.js": "/https//vivek07542.github.io/shopping-cart-hooks/build/static/js/runtime-main.6acd401e.js",
+    "runtime-main.js.map": "/https//vivek07542.github.io/shopping-cart-hooks/build/static/js/runtime-main.6acd401e.js.map",
+    "static/js/2.8a49bf17.chunk.js": "/https//vivek07542.github.io/shopping-cart-hooks/build/static/js/2.8a49bf17.chunk.js",
+    "static/js/2.8a49bf17.chunk.js.map": "/https//vivek07542.github.io/shopping-cart-hooks/build/static/js/2.8a49bf17.chunk.js.map",
+    "static/js/3.ecf42d11.chunk.js": "/https//vivek07542.github.io/shopping-cart-hooks/build/static/js/3.ecf42d11.chunk.js",
+    "static/js/3.ecf42d11.chunk.js.map": "/https//vivek07542.github.io/shopping-cart-hooks/build/static/js/3.ecf42d11.chunk.js.map",
+    "index.html": "/https//vivek07542.github.io/shopping-cart-hooks/build/index.html",
+    "static/css/main.7f25bf1a.chunk.css.map": "/https//vivek07542.github.io/shopping-cart-hooks/build/static/css/main.7f25bf1a.chunk.css.map",
+    "static/js/2.8a49bf17.chunk.js.LICENSE.txt": "/https//vivek07542.github.io/shopping-cart-hooks/build/static/js/2.8a49bf17.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2a88b5d2.js",
+    "static/js/runtime-main.6acd401e.js",
     "static/js/2.8a49bf17.chunk.js",
     "static/css/main.7f25bf1a.chunk.css",
     "static/js/main.af80ecc1.chunk.js"
