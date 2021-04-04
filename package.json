@@ -1,6 +1,6 @@
 {
   "name": "shopping-cart-hooks",
-  "homepage": "https://vivek07542.github.io/shopping-cart-hooks",
+  "homepage": "http//vivek07542.github.io/shopping-cart-hooks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,7 +24,7 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
